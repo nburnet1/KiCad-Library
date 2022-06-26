@@ -1,4 +1,4 @@
-# KiCad-Symbols
+# KiCad-Library
 Posting all the KiCad symbols I create here.
 
 <h2>Bluetooth Library</h2>
