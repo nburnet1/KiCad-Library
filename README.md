@@ -7,4 +7,4 @@ Posting all the KiCad symbols I create here.
 
 <h2>Display Library</h2>
 <h4>UCT-602602 Module</h4>
-<img src=
+<img src="UCT-602602.png">
