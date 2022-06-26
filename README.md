@@ -1,5 +1,5 @@
 # KiCad-Library
-Posting all the KiCad symbols I create here.
+Posting all the KiCad libraries and symbols I create here.
 
 <h2>Bluetooth Library</h2>
 <h4>HC-05 Module</h4>
